@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-igid41.rtb-system.online/sitemap.xml
